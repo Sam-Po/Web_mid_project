@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KFC</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section>
+
+        <div class="circle"></div>
+
+        <header>
+            <a href="" class="logo"><img src="images/logo (1).png" alt="Logo"></a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">What's New</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </header>
+
+        <div class="content">
+            <div class="textBox">
+                <h2> <span>     KFC: World Famous Fried Chicken</span> </h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Labore ea perferendis voluptatibus fugiat
+                    mollitia consectetur, reiciendis impedit saepe
+                    quia placeat dolor architecto reprehenderit vero
+                    error incidunt cum iste voluptates Rerum.</p>
+                    <a href="#">Learn More</a>
+            </div>
+        </div>
+
+        <div class="imgBox">
+            <img src="images/img1.png" alt="" class="starbucks">
+        </div>
+
+        <ul class="thumb">
+            <li><img src="images/thumb1.png" alt=""></li>
+            <li><img src="images/thumb3.png" alt=""></li>
+            <li><img src="images/thumb2.png" alt=""></li>
+        </ul>
+
+        <ul class="sci">
+            <li><a href=""><img src="images/facebook.png" alt=""></a></li>
+            <li><a href=""><img src="images/twitter.png" alt=""></a></li>
+            <li><a href=""><img src="images/instagram.png" alt=""></a></li>
+        </ul>
+    </section>
+
+    
+</body>
+</html>
